@@ -1,1 +1,2 @@
-velocity
+create a required geometry from any open source like blender and mesh it through blender add-on like swiftblock or sanppyhex mesh
+First you have to generate velocity distrubution in the geometry and afterwards you have to copy the final velocity file in the tracer file as intial velocity file. 
